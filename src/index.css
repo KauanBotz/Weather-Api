@@ -1,0 +1,27 @@
+/* src/index.css */
+.app-container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  input {
+    padding: 10px;
+    margin-right: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .weather-info {
+    margin-top: 20px;
+  }
+  
+  .weather-info img {
+    width: 100px;
+    height: 100px;
+  }
+  
